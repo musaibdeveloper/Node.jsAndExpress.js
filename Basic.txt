@@ -20,3 +20,11 @@ Node JS start to end(Push on Git)
 When you clone the repo
 After cloning successfully open the folder and In vs code.
 If we 
+
+
+
+
+-------------------------------------------------------------------------
+
+To start node <filename>
+npm start
