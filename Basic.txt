@@ -1,0 +1,22 @@
+Node JS start to end(Push on Git)
+
+1. Create a repo.
+2. Check on Readme.
+3. Copy ssh URL and clone.
+4. Cd into repo
+5. Run npm init / npm init -y
+6** Add "type" : "module" & "start" : "node app.JS only in package json file.
+7 Create a file called app.js
+8* Create .gitignore and add node modules name it.
+9. Do coding in app.js
+10. Install any package which is required by 
+     npm i "package name"
+
+11. Do coding
+12 test your project
+
+----------------------------------------------------------------------------------------------------------------------
+
+When you clone the repo
+After cloning successfully open the folder and In vs code.
+If we 
