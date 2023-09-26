@@ -1,0 +1,26 @@
+NPM stands for Node Package Manager.
+
+As od Sep, 2022 it has around 2.1 million packages listed in NPM registry.
+NPM is a way of download and manage depedencies for both.
+frontend and backend applications using Javascript. 
+Yarn and npm are the alternantives of Npm cli.
+
+
+Commads to be remembred.
+
+1. npm init
+2. npm install.
+3. npm install <package name> -g for gloablly.
+--save-dev under the dependencies.
+--no-save 
+--save-optional, --no-optional.
+nm install <package_name>@<version>
+npm update
+npm update <package_name>
+npm run <task-name>
+npm listed
+npm view <package_name> version
+npm uninstal <package name>
+npm help
+
+npm root -g "It gives the path where the package is installed"
