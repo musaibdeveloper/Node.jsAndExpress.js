@@ -28,3 +28,16 @@ If we
 
 To start node <filename>
 npm start
+
+------------------------------------------------------------------------
+
+If you found Node modules in repo 
+then steps
+
+make sure u clone new and fresh
+old code should not be there 
+
+1. git clone repo-ssh
+2. cd repoName
+3. delete node modules once you have cloned the repo. 
+4. Push again. 

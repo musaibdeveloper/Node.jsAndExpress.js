@@ -7,7 +7,7 @@ const minimist = require("minimist")
 //     console.log(`${index} ${value}`);
 // })
 
-const argNew = minimist(process.argv.slice(2));
+const argNew = minimist(process.argv.slice(2)[0]);
 
 console.log(argNew.name)
 
